@@ -1,6 +1,0 @@
-Variant_ID,Gene,Initial_Class,Clinical_Criteria_Considered,Final_Classification
-V1,MLH1,Pathogenic,Low population frequency + ClinVar pathogenic,Pathogenic
-V2,MSH2,Likely_pathogenic,Low frequency + ClinVar support,Likely_pathogenic
-V3,MSH6,VUS,Frameshift but limited evidence,VUS
-V4,PMS2,VUS,Moderate frequency + uncertain evidence,VUS
-V5,MLH1,Benign,High population frequency,Benign
