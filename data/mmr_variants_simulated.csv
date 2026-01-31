@@ -1,0 +1,6 @@
+Variant_ID,Gene,Variant_Type,Protein_Change,Population_Frequency,ClinVar_Status
+V1,MLH1,SNV,p.Gly67Arg,0.00001,Pathogenic
+V2,MSH2,SNV,p.Arg406Cys,0.00005,Likely_pathogenic
+V3,MSH6,Indel,p.Lys135fs,0.00000,VUS
+V4,PMS2,SNV,p.Val246Met,0.0012,VUS
+V5,MLH1,SNV,p.Pro28Leu,0.02,Benign
