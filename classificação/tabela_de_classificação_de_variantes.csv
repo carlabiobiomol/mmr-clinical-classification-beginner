@@ -1,5 +1,0 @@
-Gene,Variante,Tipo_de_variante,Critérios_ACMG,Classificação_Final,Observações
-MLH1,c.123A>G,Missense,PM2 + PP3,VUS,Variante simulada para treinamento
-MSH2,c.456del,Frameshift,PVS1 + PM2,Patogênica,Perda de função
-MSH6,c.890C>T,Nonsense,PVS1,Patogênica,Stop codon precoce
-PMS2,c.234G>A,Sinônima,BP7,Benigna,Sem impacto funcional previsto
